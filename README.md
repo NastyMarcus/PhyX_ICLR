@@ -18,7 +18,7 @@
 
 ## 🔔 News
 
--  💥 Skywork-R1V3 Outperforms Qwen2.5-VL-72B with 32.0% on SeePhys! Learn more at the Skywork-R1V3 blog.
+-  🎉 Skywork-R1V3 outperforms Qwen2.5-VL-72B with 8.0% on PhyX, congratulation!
 -  🎉 PhyX is officially supported by [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for easy evalution.
 -  🎉 PhyX is officially supported by [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) for easy evalution.
 
